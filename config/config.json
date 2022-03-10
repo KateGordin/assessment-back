@@ -1,6 +1,6 @@
 {
   "development": {
-    "url": "postgres://uivaeghh:HDD-WOl3sFdXH88hmJQi70rxHzX7s-59@abul.db.elephantsql.com/uivaeghh",
+    "url": "",
     "dialect": "postgres"
   },
   "test": {
